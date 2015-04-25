@@ -1,4 +1,6 @@
 # glorycloud
-ABC = Always Be Coding
-Slowly hacking away at Euler's Project
+ABC = Always Be Coding </n>
+
+Slowly hacking away at Euler's Project</n>
+
 Been working on this...
